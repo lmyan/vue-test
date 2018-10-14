@@ -1,11 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <ul>
-      <li>Flex布局（1）</li>
-      <li>Flex布局（2）</li>
-      <li>Gird布局</li>
-    </ul>
+    xx
     <router-view/>
   </div>
 </template>
